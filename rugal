@@ -1,0 +1,13 @@
+impor turtle
+larry = turtle.Turtle()
+point1 = (50, 100)
+point2 = (150, 200)
+
+larry.penup()
+larry.goto(point1)
+larry.pendown()
+larry.goto(point2)
+
+larry.hideturtle()
+larry.exitonclick()
+

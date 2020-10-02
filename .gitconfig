@@ -1,0 +1,7 @@
+[user]
+	name = Gera Silva
+	email = gs478@nau.edu
+[core]
+	editor = 'C:/Program Files/Notepad++/notepad++.exe'\n-multiInst -notabbar -nosession -noPlugin
+[init]
+	defaultBranch = main
